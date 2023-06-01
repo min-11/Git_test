@@ -1,6 +1,10 @@
 team: Lions
 
+<<<<<<< HEAD
 manager: Maryww
+=======
+manager: Mar
+>>>>>>> add-coach
 
 members:
 - Thomas

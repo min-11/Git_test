@@ -1,6 +1,10 @@
-team: Leopards
+team: Tigers
 
+<<<<<<< HEAD
 manager: Nora
+=======
+manager: John
+>>>>>>> parent of d7bdfe5 (update)
 
 members:
 - Linda
